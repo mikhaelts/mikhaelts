@@ -1,4 +1,4 @@
-### OLA eu Sou o Mikhael tellys👋
+### OLÁ eu sou o Mikhael tellys 👋
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikhael-tellys-b952a4234/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mikhaeltellys/?next=%2F)
@@ -6,6 +6,8 @@
 [![Portifolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mikhaelts.github.io/MIKHAEL-TELLYS/)
 
 ![Mikhael GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhaelts&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelts&layout=compact)
 
 ## Tecnologias que uso no meu dia dia :
 
@@ -15,13 +17,15 @@
 <img align="center" alt= "JS" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  />
 <img align="center" alt= "python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  />
 <img align="center" alt= "PHP" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"  />
-<img align="center" alt= "DART" src= "	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"  />
+<img align="center" alt= "Wordpress" src= "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"  />
 <img align="center" alt= "Flutter" src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"  />
 <img align="center" alt= "React" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  />
 <img align="center" alt= "Material" src= "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"  />
 <img align="center" alt= "MYSQL" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"  />
 
 
-</div>
+</div></br>
+
+"Um apaixonado por tecnologia, trilhando caminhos digitais e transformando ideias em código."
 
 
