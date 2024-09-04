@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Eu sou de  Recife - Pe<br><br>- 🔭 Estou trabalhando como Técnico de Desenvolvimento e Aplicações na faculdade ALPHA<br>- 📚 Atualmente estou aprendendo Tecnologias WEB Front-end<br>- ⚡ No meu tempo livre eu Gosto De Ler , Assistir e jogar.</p>
+<p align="left">Eu sou de  Recife - Pe<br><br>- 🔭 Estou trabalhando como Técnico de Desenvolvimento e Aplicações na faculdade ALPHA<br>- 📚 Atualmente estou aprendendo Tecnologias Em Nuvem e Segurança da Informação<br>- ⚡ No meu tempo livre eu Gosto De Ler , Assistir e jogar.</p>
 
 ###
 
